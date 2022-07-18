@@ -1,0 +1,1 @@
+# Treasure Island Program. It's small text game where you need to find the treasure hidden somewhere on the map. You can move freely on the map. Be careful, not every path is safe, your character can die.
